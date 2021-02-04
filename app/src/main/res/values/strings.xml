@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Group22_HW07</string>
+    <string name="button_login">Login</string>
+    <string name="button_signUp">Sign Up</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_register">Register</string>
+    <string name="button_signout">Signout</string>
+    <string name="title_activity_view_trips">ViewTripsActivity</string>
+    <string name="button_save">Save Profile</string>
+    <string name="button_create_trip">Create trip</string>
+    <string name="button_save_trip">Save Changes</string>
+</resources>
